@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1F3E7EF-359B-4973-8944-45EE4DE86154</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CJSTimer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14EA4DD0FACFB2407CFEC40196C7DC7FF622DABA</key>
+		<string>https://github.com/Jia-Shen/CJSTimer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CJSTimer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14EA4DD0FACFB2407CFEC40196C7DC7FF622DABA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Jia-Shen/CJSTimer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14EA4DD0FACFB2407CFEC40196C7DC7FF622DABA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14EA4DD0FACFB2407CFEC40196C7DC7FF622DABA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CJSTimer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
