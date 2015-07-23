@@ -1,2 +1,2 @@
 # CJSTimer
-saver timer category
+safer timer category
